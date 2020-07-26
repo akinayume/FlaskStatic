@@ -1,6 +1,6 @@
 title: FatManDJ
 subtitle: hello world!
-subscription: The Enemy Of The World.
+subscription: 一个小学生
 name: James Jiang
 # WARN:Don't Open Debug Mode When You Deploy It On A PC!
 #link
@@ -9,4 +9,4 @@ blog: https://blog.fatdev.name
 zhihu: https://zhihu.com
 github: https://github.com/JiangYuShuo10023
 #theme
-theme: quicked
+theme: covquicked

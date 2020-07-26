@@ -5,5 +5,5 @@ def get_yaml_data(yaml_file):
     f = open(yaml_file,'r',encoding='utf-8')
     result = f.read()
     # 转换成字典读出来
-    a = yaml.load(result)
+    a = yaml.load(result,Loader=yaml.FullLoader)
     return a
